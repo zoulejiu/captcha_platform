@@ -35,7 +35,7 @@ Markdown==3.1.1
 MarkupSafe==1.1.1
 multidict==4.7.1
 numpy==1.16.0
-opencv-python==3.4.5.20
+opencv-python==4.1.2.30
 paramiko==2.7.1
 pathtools==0.1.2
 pefile==2019.4.18
